@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/my-representation/static/media/mem-cards.beb74282.gif"
   },
   {
-    "revision": "b1ea455e279467786b73",
-    "url": "/my-representation/static/css/main.a156e13c.chunk.css"
+    "revision": "70c73a94341a6927d195",
+    "url": "/my-representation/static/css/main.74c8dd88.chunk.css"
   },
   {
     "revision": "8c5475719e887656cd0b",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/my-representation/static/media/notlogo.f68dfa6b.svg"
   },
   {
-    "revision": "b1ea455e279467786b73",
-    "url": "/my-representation/static/js/main.b1ea455e.chunk.js"
+    "revision": "70c73a94341a6927d195",
+    "url": "/my-representation/static/js/main.70c73a94.chunk.js"
   },
   {
     "revision": "8cb436bc635fb813ab6420d4cdc89a4b",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/my-representation/static/media/13inBed.8531c83e.png"
   },
   {
-    "revision": "8fca13d1527caf021ea17d2a6247bb6a",
+    "revision": "53be3b1163dd7560fb57affe070d6c08",
     "url": "/my-representation/index.html"
   }
 ];
